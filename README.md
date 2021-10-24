@@ -1,8 +1,8 @@
 # Description
 
-- Water and gastube tracking system frontend written with NextJs. This is a tracking system for how many carboy(water) or gastube sold. At the backend I used NestJs.
+- Water and gastube tracking system frontend app written with NextJs. This is a tracking system for how many carboy(water) or gastube sold. At the backend I used NestJs.
 
-<!-- ## For backend app => [https://nestjs.com](https://nestjs.com/) -->
+## For backend app => [NestJs Backend App.](https://github.com/ofsonmez/NestJs-Water-and-Gastube-Tracking-App)
 
 ## Installation
 
